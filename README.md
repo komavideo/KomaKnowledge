@@ -11,6 +11,7 @@
 04. 【GitHub】Gitpod - GitHub完美的云端IDE One-Click Online IDE for GitHub
 05. 【网页开发】漂亮的图片占位符 - lorempixel http://lorempixel.com/
 06. 【JavaScript】如何实现使用JavaScript画图呢？用HTML5画布(Canvas)呀
+07. 【JavaScript】一个好汉多个帮，JavaScript强大的工具群 - JavaScript Tooling
 
 ## 课程文件
 
