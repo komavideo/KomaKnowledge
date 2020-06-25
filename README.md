@@ -13,6 +13,7 @@
 06. 【JavaScript】如何实现使用JavaScript画图呢？用HTML5画布(Canvas)呀
 07. 【JavaScript】一个好汉多个帮，JavaScript强大的工具群 - JavaScript Tooling
 08. 【JS框架】Preact - 一个瘦身成功的 React 备胎, ReactJS：我干的多才吃得多
+09. 【Python】googletrans - 活用Google翻译API，拓展你的知识范围
 
 ## 课程文件
 
