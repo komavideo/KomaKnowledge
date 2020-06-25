@@ -14,6 +14,7 @@
 07. 【JavaScript】一个好汉多个帮，JavaScript强大的工具群 - JavaScript Tooling
 08. 【JS框架】Preact - 一个瘦身成功的 React 备胎, ReactJS：我干的多才吃得多
 09. 【Python】googletrans - 活用Google翻译API，拓展你的知识范围
+10. 【Vue.js】Vue Cli 4.x - 越发完善的vue.js命令行工具
 
 ## 课程文件
 
