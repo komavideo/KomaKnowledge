@@ -10,6 +10,7 @@
 03. 【API工具】Postwoman - 玩转API,男人行,女人更行
 04. 【GitHub】Gitpod - GitHub完美的云端IDE One-Click Online IDE for GitHub
 05. 【网页开发】漂亮的图片占位符 - lorempixel http://lorempixel.com/
+06. 【JavaScript】如何实现使用JavaScript画图呢？用HTML5画布(Canvas)呀
 
 ## 课程文件
 
