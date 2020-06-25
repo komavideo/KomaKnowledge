@@ -6,6 +6,7 @@
 ## 知识列表
 
 01. 【Linux】Linux下的包管理器-Linuxbrew (Homebrew)
+02. 【网站开发】Hugo - 史上最快的建站工具
 
 ## 课程文件
 
