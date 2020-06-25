@@ -9,6 +9,7 @@
 02. 【网站开发】Hugo - 史上最快的建站工具
 03. 【API工具】Postwoman - 玩转API,男人行,女人更行
 04. 【GitHub】Gitpod - GitHub完美的云端IDE One-Click Online IDE for GitHub
+05. 【网页开发】漂亮的图片占位符 - lorempixel http://lorempixel.com/
 
 ## 课程文件
 
