@@ -19,6 +19,7 @@
 12. 【Ruby】Rails6 - 在Ubuntu环境下搭建 Rails on Rails 开发环境
 13. 【GitHub】Octotree - 看代码终于不再骂人了
 14. 【Java】Corretto - 基于OpenJDK的免费、多平台、生产用发行版
+15. 【Node.js】Puppeteer - 使用 Javascript 抓取屏幕图像
 
 ## 课程文件
 
