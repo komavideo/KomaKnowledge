@@ -21,6 +21,7 @@
 14. 【Java】Corretto - 基于OpenJDK的免费、多平台、生产用发行版
 15. 【Node.js】Puppeteer - 使用 Javascript 抓取屏幕图像
 16. 【Node.js】COVID-19 - 新冠来袭，看我捉到你 by Rakuten RapidAPI
+17. 【Markdown】Marp for VS Code - 快速建立你的展示文档, 向powerpoint说再见
 
 ## 课程文件
 
