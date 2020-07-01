@@ -20,6 +20,7 @@
 13. 【GitHub】Octotree - 看代码终于不再骂人了
 14. 【Java】Corretto - 基于OpenJDK的免费、多平台、生产用发行版
 15. 【Node.js】Puppeteer - 使用 Javascript 抓取屏幕图像
+16. 【Node.js】COVID-19 - 新冠来袭，看我捉到你 by Rakuten RapidAPI
 
 ## 课程文件
 
