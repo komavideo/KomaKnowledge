@@ -22,6 +22,7 @@
 15. 【Node.js】Puppeteer - 使用 Javascript 抓取屏幕图像
 16. 【Node.js】COVID-19 - 新冠来袭，看我捉到你 by Rakuten RapidAPI
 17. 【Markdown】Marp for VS Code - 快速建立你的展示文档, 向powerpoint说再见
+18. 【Tensorflow】测试你的环境是否支持GPU运算 - list_physical_devices
 
 ## 课程文件
 
