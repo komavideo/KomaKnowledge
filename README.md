@@ -25,6 +25,7 @@
 18. 【Tensorflow】测试你的环境是否支持GPU运算 - list_physical_devices
 19. 【Node.js】JavaScript - 神奇的几个功能
 20. 【Python3】OpenCV - 人脸检测模型，让我看看你是谁
+21. 【Tensorflow】矩阵计算评测 - CPU GPU 到底哪个快？
 
 ## 课程文件
 
