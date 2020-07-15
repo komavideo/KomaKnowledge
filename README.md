@@ -26,10 +26,11 @@
 19. 【Node.js】JavaScript - 神奇的几个功能
 20. 【Python3】OpenCV - 人脸检测模型，让我看看你是谁
 21. 【Tensorflow】矩阵计算评测 - CPU GPU 到底哪个快？
+22. 【Python3】zip - 压缩你的数组，大家挤一挤吧
 
 ## 课程文件
 
-https://github.com/komavideo
+https://github.com/komavideo/KomaKnowledge
 
 ## 小马视频频道
 
