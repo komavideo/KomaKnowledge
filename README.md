@@ -27,6 +27,7 @@
 20. 【Python3】OpenCV - 人脸检测模型，让我看看你是谁
 21. 【Tensorflow】矩阵计算评测 - CPU GPU 到底哪个快？
 22. 【Python3】zip - 压缩你的数组，大家挤一挤吧
+23. 【Vue.js】Modal Window - 做一个模态窗体吧，不能关闭的那种
 
 ## 课程文件
 
