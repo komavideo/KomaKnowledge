@@ -29,6 +29,7 @@
 22. 【Python3】zip - 压缩你的数组，大家挤一挤吧
 23. 【Vue.js】Modal Window - 做一个模态窗体吧，不能关闭的那种
 24. 【OCR】Tesseract OCR - 提取图片中的文字内容，支持多种语言哦
+25. 【vscode】faker - 生成各种测试数据。别怕，一起来数据造假吧！
 
 ## 课程文件
 
