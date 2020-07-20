@@ -31,6 +31,7 @@
 24. 【OCR】Tesseract OCR - 提取图片中的文字内容，支持多种语言哦
 25. 【vscode】faker - 生成各种测试数据。别怕，一起来数据造假吧！
 26. 【Python】pytesseract - 分析提取图片文字, 支持中日英
+27. 【Python】Trio - 一个友好的Python异步多线程框架，提升系统速度哦
 
 ## 课程文件
 
