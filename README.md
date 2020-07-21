@@ -33,6 +33,7 @@
 26. 【Python】pytesseract - 分析提取图片文字, 支持中日英
 27. 【Python】Trio - 一个友好的Python异步多线程框架，提升系统速度哦
 28. 【Python】Beautiful Soup - 学英语了，走！爬单词去。
+29. 【Vue.js】Vue 3.0 - 小试牛刀, Composition API 改变了我很多想法
 
 ## 课程文件
 
