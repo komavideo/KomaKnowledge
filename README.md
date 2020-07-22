@@ -36,6 +36,7 @@
 29. 【Vue.js】Vue 3.0 - 小试牛刀, Composition API 改变了我很多想法
 30. 【Bootstrap】Bootstrap 5 - 小试牛刀, alpha版我觉得很不错
 31. 【Python】deque - 双向队列的使用方式
+32. 【Vue】dogstar-ui - 基于 VUE 框架的模拟Windows桌面效果
 
 ## 课程文件
 
