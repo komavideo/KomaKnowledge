@@ -35,6 +35,7 @@
 28. 【Python】Beautiful Soup - 学英语了，走！爬单词去。
 29. 【Vue.js】Vue 3.0 - 小试牛刀, Composition API 改变了我很多想法
 30. 【Bootstrap】Bootstrap 5 - 小试牛刀, alpha版我觉得很不错
+31. 【Python】deque - 双向队列的使用方式
 
 ## 课程文件
 
