@@ -11,6 +11,10 @@ https://youtu.be/x3YSQhP6fL4
 * 使用最新的Python版本3.8.2
 * 不再用virtualenv了，再见
 
+## 官网
+
+https://docs.python.org/zh-cn/3/library/venv.html
+
 ### Virtualenv - Python虚拟环境, 三大神器之一
 
 https://youtu.be/Y9JMfWAr_04
