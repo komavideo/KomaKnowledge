@@ -40,6 +40,7 @@
 33. 【Python】pytrends - 几个关键字，了解世界新动向
 34. 【Python】qrcode - 快速生成QR代码
 35. 【Deno】Deno - 一个安全的Javascript和TypeScript运行时，Node:我弟弟
+36. 【Python】Counter - 自动计算元素个数
 
 ## 课程文件
 
