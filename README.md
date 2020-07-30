@@ -41,6 +41,7 @@
 34. 【Python】qrcode - 快速生成QR代码
 35. 【Deno】Deno - 一个安全的Javascript和TypeScript运行时，Node:我弟弟
 36. 【Python】Counter - 自动计算元素个数
+37. 【VSCode】Draw.io - 万能的画图插件，这太棒了 - Draw.io Integration
 
 ## 课程文件
 
