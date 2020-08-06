@@ -45,6 +45,7 @@
 38. 【Vue 3】@vue/cli@next - Vue命令行工具已开始支持Vue 3的工程
 39. 【Python】FastAPI - 快速的Web框架，不输Go与Node.js
 40. 【VSCode】Visual Studio IntelliCode - 基于AI的代码辅助工具
+41. 【Conda】Miniconda - Python的包管理器，再见pip
 
 ## 课程文件
 
