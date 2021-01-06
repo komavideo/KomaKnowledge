@@ -46,6 +46,7 @@
 39. 【Python】FastAPI - 快速的Web框架，不输Go与Node.js
 40. 【VSCode】Visual Studio IntelliCode - 基于AI的代码辅助工具
 41. 【Conda】Miniconda - Python的包管理器，再见pip
+42. 【VSCode】小霸王其乐无穷 - VSCode是干什么用的？玩游戏啊！
 
 ## 课程文件
 
