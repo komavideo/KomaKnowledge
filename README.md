@@ -47,6 +47,7 @@
 40. 【VSCode】Visual Studio IntelliCode - 基于AI的代码辅助工具
 41. 【Conda】Miniconda - Python的包管理器，再见pip
 42. 【VSCode】小霸王其乐无穷 - VSCode是干什么用的？玩游戏啊！
+43. 【Vue.js】Vite - 尤大神出品的Web快速开发构建工具
 
 ## 课程文件
 
